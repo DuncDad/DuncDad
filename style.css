@@ -6,11 +6,11 @@
 
 @font-face {
   font-family: MyTitleFont;
-  src: url('/_resources/RagtimeMarker-Regular.otf') format('opentype');
+  src: url(/_resources/RagtimeMarker-Regular.otf) format('opentype');
 }
 
 h1 {
-    font-family: MyTitleFont, Arial, Helvetica, sans-serif;
+    font-family: MyTitleFont, sans-serif;
     font-size: 50px;
 }
 
