@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: MyTitleFont;
-  src: url(/resources/RagtimeMarker-Regular.otf) format('opentype');
+  src: url('resources/RagtimeMarker-Regular.otf') format('opentype');
 }
 
 h1 {
