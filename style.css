@@ -12,9 +12,29 @@
 h1 {
     font-family: "My Title Font", sans-serif;
     font-size: 44px;
+    color: #B42645;
+}
+
+h2, h3, h4 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  font-size: 33px;
+  color: #29A527;
+}
+
+h3 {
+  font-size: 22px;
+  color: black;
+}
+
+h4 {
+  font-size: 18px;
+  color: #111111;
 }
 
 footer {
     font-size: 12px;
-    color: blueviolet;
+    color: #956840;
 }
