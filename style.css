@@ -39,28 +39,30 @@ h4 {
   color: #111111;
 }
 
-nav{
+nav {
   width: 100%;
   text-align: center;
   position: fixed;
-  top: 33px;
+  top: 40px;
   z-index: 10;
-  display: inline-block;
 }
 
-nav.li {
+nav li {
+  display: inline-block;
   width: 80px;
-  border:  2px solid #29A527
-}
+  border: 1px solid coral;
+  border-radius: 7px;
+  padding: 5px;
+  }
 
 body {
   font-family: Raleway, tahoma, serif;
   font-size: 13px;
-  padding-left: 11px;
-}
+  
+  }
 
 main {
-  width: 63%;
+  width: 70%;
   background-color: azure;
   position: absolute;
   left: 11px;
@@ -73,7 +75,7 @@ article {
 
 aside {
   padding-right: 11px;
-  width: 30%;
+  width: 25%;
   background-color: #eee;
   position: absolute;
   right: 11px;
@@ -81,11 +83,11 @@ aside {
 }
 
 footer {
-    font-size: 11px;
-    color: #eee;
-    background-color: #000;
-    text-align: center;
-    position: fixed;
-    bottom: 3px;
-    width: 100%;    
+  font-size: 11px;
+  color: #eee;
+  background-color: #000;
+  text-align: right;
+  position: fixed;
+  bottom: 3px;
+  width: 100%;    
 }
