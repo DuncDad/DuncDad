@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+
 <html>
   <head>
-    <title>@DuncDad</title>
+    <title>About @DuncDad</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link href="style.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,10 +13,10 @@
  
   <nav>
     <ul>
-      <li><a href="http://talkwith.duncdad.com">Book a Call</a></li>
-      <li>Lif€ H@cks</li>
-      <li>About</li>
-      <li>Contact</li>
+        <li>Home</li>
+        <li><a href="http://talkwith.duncdad.com">Book a Call</a></li>
+        <li>Lif€ H@cks</li>
+        <li>Contact</li>
       
     </ul>
   </nav>
@@ -35,8 +36,8 @@
       <h2></h2>
     </article>    
  <!-- Aside Section-->
-    <aside>
-      </aside> 
+    <aside>   
+     </aside> 
   </body>
  
 <footer>

@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
+
 <html>
   <head>
     <title>@DuncDad</title>
@@ -12,10 +13,10 @@
  
   <nav>
     <ul>
+      <li>Home</li>
       <li><a href="http://talkwith.duncdad.com">Book a Call</a></li>
       <li>Lif€ H@cks</li>
       <li>About</li>
-      <li>Contact</li>
       
     </ul>
   </nav>
@@ -24,7 +25,9 @@
 <!-- "Main section" -->
     <main>
         <h2>DuncDad Digital h2</h2>   
-        <p> the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message</p>
+        <p> <h3>Contact</h3>Contact 
+                     
+            the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message</p>
         <p> the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message</p>
         <p> the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message</p>
         <p> the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message the main message</p>
